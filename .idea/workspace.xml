@@ -1,13 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8e2eded2-7d14-4021-be5f-4d087b565346" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/carbon-dating.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/carbon-dating.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/count-cats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/count-cats.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dream-team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dream-team.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursive-depth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursive-depth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/transform-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/transform-array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/what-season.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/what-season.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +79,67 @@
       <workItem from="1599054620464" duration="2863000" />
       <workItem from="1599128774206" duration="690000" />
       <workItem from="1599133450619" duration="610000" />
-      <workItem from="1599150316681" duration="1295000" />
+      <workItem from="1599150316681" duration="2087000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add what-season solution">
+      <created>1599151921966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599151921966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: add recursive-depth solution">
+      <created>1599151964353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599151964353</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add dream-team solution">
+      <created>1599151974869</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599151974869</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add count-cats solution">
+      <created>1599151987222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599151987222</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: add carbon-dating solution">
+      <created>1599151998191</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599151998191</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add what-season solution" />
+    <MESSAGE value="feat: add recursive-depth solution" />
+    <MESSAGE value="feat: add dream-team solution" />
+    <MESSAGE value="feat: add count-cats solution" />
+    <MESSAGE value="feat: add carbon-dating solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add carbon-dating solution" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1328" height="176" key="GridCell.Tab.0.bottom" timestamp="1599052745841">
@@ -64,5 +158,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1328" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599052745841" />
+    <state x="474" y="70" key="RollbackChangesDialog" timestamp="1599151945340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="70" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599151945340" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1599152008056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599152008056" />
   </component>
 </project>
