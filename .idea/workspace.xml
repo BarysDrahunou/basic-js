@@ -46,6 +46,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e2eded2-7d14-4021-be5f-4d087b565346" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extended-repeater.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extended-repeater.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/transform-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/transform-array.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +80,7 @@
       <workItem from="1599054620464" duration="2863000" />
       <workItem from="1599128774206" duration="690000" />
       <workItem from="1599133450619" duration="610000" />
-      <workItem from="1599150316681" duration="2087000" />
+      <workItem from="1599150316681" duration="3491000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add what-season solution">
       <created>1599151921966</created>
@@ -116,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599151998191</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: add hanoi-tower solution">
+      <created>1599152684886</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599152684886</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +147,8 @@
     <MESSAGE value="feat: add dream-team solution" />
     <MESSAGE value="feat: add count-cats solution" />
     <MESSAGE value="feat: add carbon-dating solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add carbon-dating solution" />
+    <MESSAGE value="feat: add hanoi-tower solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add hanoi-tower solution" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1328" height="176" key="GridCell.Tab.0.bottom" timestamp="1599052745841">
@@ -162,9 +171,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="474" y="70" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599151945340" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1599152008056">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1599152689729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599152008056" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599152689729" />
   </component>
 </project>
