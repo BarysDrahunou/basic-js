@@ -46,7 +46,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e2eded2-7d14-4021-be5f-4d087b565346" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/transform-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/transform-array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hanoi-tower.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanoi-tower.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,8 @@
       <workItem from="1599133450619" duration="610000" />
       <workItem from="1599150316681" duration="8210000" />
       <workItem from="1599209571408" duration="1980000" />
-      <workItem from="1599212178817" duration="1450000" />
+      <workItem from="1599212178817" duration="2039000" />
+      <workItem from="1599214956444" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add what-season solution">
       <created>1599151921966</created>
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599212827734</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: add transform-array solution">
+      <created>1599213688566</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599213688566</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +182,9 @@
     <MESSAGE value="feat: add extended-repeater solution" />
     <MESSAGE value="feat: add simple-chain solution" />
     <MESSAGE value="feat: add vigenere-cipher solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add vigenere-cipher solution" />
+    <MESSAGE value="feat: add transform-array solution" />
+    <MESSAGE value="feat: make hanoi-tower more readable" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: make hanoi-tower more readable" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1328" height="176" key="GridCell.Tab.0.bottom" timestamp="1599052745841">
@@ -197,9 +207,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="474" y="70" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599151945340" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1599156628781">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1599213695323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599156628781" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599213695323" />
   </component>
 </project>
